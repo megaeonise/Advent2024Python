@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1RNLYR5MiFdp5g0Qv_-VNR9F-yPRy-47k
 """
 
-office = open('/content/input.txt', 'r')
+office = open('/content/input.txt', 'r') #this was coded in colab, so this is just taking input from colab root folder
 list1, list2 = [], []
 total = 0
 counter = 0
